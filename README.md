@@ -54,7 +54,7 @@ Tested with models: XGBoost, Logistic Regression, Random Forest
 <img width="552" height="460" alt="logisticR" src="https://github.com/user-attachments/assets/6501c5a9-f0a4-446d-9334-c4a6460ede97" />
 
 
-**Predict Score- **
+**Predict Score-**
 
 <img width="831" height="358" alt="image" src="https://github.com/user-attachments/assets/fdd0a365-f23f-42a1-8934-3d6aa0f9709f" />
 
