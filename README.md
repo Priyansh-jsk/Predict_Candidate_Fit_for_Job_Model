@@ -66,6 +66,9 @@ _Current Limitations:_
 - Binary location matching
 - Text features (job descriptions)
 
+<img width="480" height="651" alt="12 07 2025_17 38 31_REC" src="https://github.com/user-attachments/assets/fe801547-c144-4981-b4f3-6eff33d19edc" />
+
+
 _Potential Improvements:_
 
 - Semantic skill matching using word embeddings
