@@ -43,7 +43,7 @@ Build a ml model to predict whether a candidate is a good fit for a job based on
 
 **Model Training**
 
-Tested with models: XGBoost, BERT, Random Forest 
+Tested with models: XGBoost, Logistic Regression, Random Forest 
 
 **Trade-offs & Limitations**
 
