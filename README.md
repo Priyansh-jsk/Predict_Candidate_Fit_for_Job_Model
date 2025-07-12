@@ -45,6 +45,15 @@ Build a ml model to predict whether a candidate is a good fit for a job based on
 
 Tested with models: XGBoost, Logistic Regression, Random Forest 
 
+Results of all models- 
+
+<img width="613" height="678" alt="xgboost" src="https://github.com/user-attachments/assets/d879c265-1e91-454b-b6cd-8a94d677d3ed" />
+
+<img width="558" height="327" alt="randomforest" src="https://github.com/user-attachments/assets/350da751-ab06-403c-a992-7b5e41e9b44e" />
+
+<img width="552" height="460" alt="logisticR" src="https://github.com/user-attachments/assets/6501c5a9-f0a4-446d-9334-c4a6460ede97" />
+
+
 **Trade-offs & Limitations**
 
 _Current Limitations:_
